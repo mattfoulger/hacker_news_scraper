@@ -1,0 +1,2 @@
+class BadDocError < StandardError
+end
